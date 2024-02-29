@@ -9,7 +9,7 @@
     "license": "MIT",
     "repository": "MicrosoftLearning/20532-DevelopingMicrosoftAzureSolutions",
     "dependencies": {
-        "archiver": "^1.0.1",
+        "archiver": "^7.0.0",
         "delete": "^0.3.2",
         "fs-readdir-recursive": "^1.0.0",
         "marked": "^0.3.6",
